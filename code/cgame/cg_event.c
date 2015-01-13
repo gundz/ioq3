@@ -123,7 +123,7 @@ static void CG_Obituary( entityState_t *ent ) {
 		message = "suicides";
 		break;
 	case MOD_FALLING:
-		message = "cratered";
+		message = "ne sait pas voler";
 		break;
 	case MOD_CRUSH:
 		message = "was squished";
